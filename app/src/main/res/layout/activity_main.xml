@@ -17,7 +17,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="false"
         android:layout_centerInParent="true"
-        app:srcCompat="@drawable/coal" />
+        app:srcCompat="@drawable/coal"
+        android:contentDescription="@string/todo" />
 
     <TextView
         android:layout_width="wrap_content"
